@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Java,React,NextJs**
+- 💬 Ask me about **Java,Javascript,React,NextJs**
 
-- 📫 How to reach me **sankalpbarriar10@gmail.com**
+- 📫 Reach me at **sankalpbarriar10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
