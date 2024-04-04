@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalpbarriar&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpbarriar" /> </p>
 
-- 🔭 I’m currently working on **Mega Blog Project**
+- 🔭 I’m currently working on **Flutter Project**
 
 - 🌱 I’m currently learning **Backend Development**
 
