@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sankalp Barriar</h1>
-<h3 align="center">A passionate React Developer from India.</h3>
+<h3 align="center">A passionate Full-stack Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalpbarriar&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpbarriar" /> </p>
 
 - 🔭 I’m currently working on **Flutter Project**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Python, Django**
 
 - 💬 Ask me about **Java,Javascript,React,NextJs**
 
